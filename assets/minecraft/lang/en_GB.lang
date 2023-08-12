@@ -1,0 +1,27 @@
+
+language.name=British English
+language.region=GB
+language.code=en_GB
+
+container.inventory=§fInventory
+container.hopper=§fItem Hopper
+container.crafting=§fCrafting
+container.dispenser=§fDispenser
+container.dropper=§fDropper
+container.furnace=§fFurnace
+container.enchant=§fEnchant
+container.enchant.lapis.one=§f1 Lapis Lazuli
+container.enchant.lapis.many=%d Lapis Lazuli
+container.enchant.level.one=§f1 Enchantment Level
+container.enchant.level.many=%d Enchantment Levels
+container.enchant.clue=§f%s . . . ?
+container.repair=§fRepair & Name
+container.repair.cost=§fEnchantment Cost: %1$d
+container.repair.expensive=§fToo Expensive!
+container.creative=§fItem Selection
+container.brewing=§fBrewing Stand
+container.chest=§fChest
+container.chestDouble=§fLarge Chest
+container.minecart=§fMinecart
+container.enderchest=§5Ender Chest
+container.beacon=§fBeacon
